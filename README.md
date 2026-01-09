@@ -11,7 +11,7 @@ pattern-based Data Structures & Algorithms practice.
 - Preparing alongside a full-time job (9–5)
 
 ## 🛠 Tech Stack
-- Language: <Java>
+- Language: Java
 - Platform: LeetCode (primary)
 
 ## 📂 Structure
