@@ -1,0 +1,17 @@
+# Ignore compiled output files and directories
+*.log          # Ignore all files ending in .log
+*.tmp          # Ignore all files ending in .tmp
+/build/        # Ignore the build directory in the root folder
+/node_modules/ # Ignore the node_modules directory
+/vendor/       # Ignore the vendor directory (common for dependencies)
+
+# OS-specific temporary files
+.DS_Store      # macOS temporary file
+Thumbs.db      # Windows temporary file
+
+# IDE-specific files and directories
+.vscode/       # VSCode directory (contains user-specific settings)
+.idea/         # IntelliJ IDE directory
+
+# Environment files (sensitive data)
+.env           # Environment variable files (can contain API keys/secrets)
