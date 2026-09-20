@@ -29,3 +29,4 @@ Thumbs.db
 # Microsoft Office temporary files
 ~$*.docx
 ~$*.doc
+*.iml
