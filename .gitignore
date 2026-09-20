@@ -15,3 +15,7 @@ Thumbs.db      # Windows temporary file
 
 # Environment files (sensitive data)
 .env           # Environment variable files (can contain API keys/secrets)
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.doc
